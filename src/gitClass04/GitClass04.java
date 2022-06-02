@@ -7,6 +7,7 @@ public class GitClass04 {
 
 	
 	System.out.println("popculture");
+	System.out.println("come on");
 	}
 
 }
